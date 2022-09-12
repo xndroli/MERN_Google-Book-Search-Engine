@@ -99,15 +99,15 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
 
-[![MERN: Google Book Search Engine Demo](./assets/images/googlebooks-app-demo-01)](https://github.com/xndroli/MERN_Google-Book-Search-Engine/)
+[![MERN: Google Book Search Engine Demo](./assets/images/googlebooks-app-demo-01.gif)](https://github.com/xndroli/MERN_Google-Book-Search-Engine/)
 
 The user can save books by clicking "Save This Book!" under each search result, as shown in the following animation:
 
-[![MERN: Google Book Search Engine Demo](./assets/images/googlebooks-app-demo-02)](https://github.com/xndroli/MERN_Google-Book-Search-Engine/)
+[![MERN: Google Book Search Engine Demo](./assets/images/googlebooks-app-demo-02.gif)](https://github.com/xndroli/MERN_Google-Book-Search-Engine/)
 
 A user can view their saved books on a separate page, as shown in the following animation:
 
-[![MERN: Google Book Search Engine Demo](./assets/images/googlebooks-app-demo-03)](https://github.com/xndroli/MERN_Google-Book-Search-Engine/)
+[![MERN: Google Book Search Engine Demo](./assets/images/googlebooks-app-demo-03.gif)](https://github.com/xndroli/MERN_Google-Book-Search-Engine/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
