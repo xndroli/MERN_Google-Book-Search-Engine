@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fully functioning Google Books GraphQL API built with Apollo Server 3",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -10,9 +10,17 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "xndroli",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xndroli/MERN_Google-Book-Search-Engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xndroli/MERN_Google-Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/xndroli/MERN_Google-Book-Search-Engine#readme"
 }
