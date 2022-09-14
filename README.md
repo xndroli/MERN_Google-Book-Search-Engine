@@ -5,8 +5,13 @@
 <div align="center">
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-green.svg)](https://www.mongodb.com/)
-[![Express.js](https://img.shields.io/badge/expressjs-orange.svg)](https://expressjs.com/)
 [![Mongoose.js](https://img.shields.io/badge/mongoosejs-red.svg)](https://mongoosejs.com/)
+[![Express.js](https://img.shields.io/badge/expressjs-orange.svg)](https://expressjs.com/)
+[![React.js](https://img.shields.io/badge/reactjs-orange.svg)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/nodejs-orange.svg)](https://nodejs.org/)
+[![GraphQL](https://img.shields.io/badge/graphql-orange.svg)](https://graphql.org/)
+[![Apollo](https://img.shields.io/badge/apollo-orange.svg)](https://apollographql.com/)
+[![Heroku](https://img.shields.io/badge/herokujs-purple.svg)](https://heroku.com/)
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Repo Size](https://img.shields.io/github/repo-size/xndroli/MERN_Google-Book-Search-Engine.svg)](https://github.com/xndroli/MERN_Google-Book-Search-Engine/issues)
@@ -32,6 +37,8 @@ Modifying the existing authentication middleware so that it works in the context
 Creating an Apollo Provider so that requests can communicate with an Apollo Server.
 
 Deploying the application to Heroku.
+
+[Link to Deployed Application](https://thawing-brushlands-76003.herokuapp.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,6 +116,8 @@ A user can view their saved books on a separate page, as shown in the following 
 
 [![MERN: Google Book Search Engine Demo](./assets/images/googlebooks-app-demo-03.gif)](https://github.com/xndroli/MERN_Google-Book-Search-Engine/)
 
+[Link to Deployed Application](https://thawing-brushlands-76003.herokuapp.com/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
@@ -146,9 +155,14 @@ If you have nodemon:
 ## ⛏️ Built With <a name = "built_with"></a>
 
 - [MongoDB](https://www.mongodb.com/) - Database
-- [Express.js](https://expressjs.com/) - Server Framework
 - [Mongoose.js](https://mongoosejs.com/) - Object Data Modeling
-- [Node.js](https://nodejs.org/en/) - Server Environment
+- [Express.js](https://expressjs.com/) - Server Framework
+- [React.js](https://reactjs.org/) - Front End Library
+- [Node.js](https://nodejs.org/) - Server Environment
+
+- [GraphQL](https://graphql.org/) - Data Query and Manipulation
+- [Apollo Server](https://www.apollographql.com/) - GraphQL Server
+- [Heroku](https://www.heroku.com/) - Platform As A Service (PaaS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
